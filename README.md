@@ -3,13 +3,21 @@
 ### Project Description
 
 ### Technologies
+- Nodejs
+- Reactjs
+
+
+### Week-1
+- Mainly discussed about what must be done in overall 8 weeks, especially in the 1st week.
+- Focused on designing and prototyping of our idea on Course Personlization using Justinmind.
+
+### Week-2
+- Mainly focused on leraning ReactJs.
+- Built sample React applications.
+
+### Week-3
 - 
-- List
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
