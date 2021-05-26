@@ -16,7 +16,9 @@
 - Built sample React applications.
 
 ### Week-3
-- 
+- Gone through resources for integrating the codes.
+- Built sample pages for content visualization, when Start Learning button is clicked
+- Tried to fetch JSON data onto the sample pages
 
 
 ```markdown
