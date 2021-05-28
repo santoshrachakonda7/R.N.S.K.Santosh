@@ -7,15 +7,15 @@
 - Reactjs
 
 
-### Week-1
+### Week-1 (3rd May - 8th May)
 - Mainly discussed about what must be done in overall 8 weeks, especially in the 1st week.
 - Focused on designing and prototyping of our idea on Course Personlization using Justinmind.
 
-### Week-2
+### Week-2 (10th May - 15th May)
 - Mainly focused on leraning ReactJs.
 - Built sample React applications.
 
-### Week-3
+### Week-3 (17th May - 22nd May)
 - Gone through resources for integrating the codes.
 - Built sample pages for content visualization, when Start Learning button is clicked
 - Included pagination and a content box
