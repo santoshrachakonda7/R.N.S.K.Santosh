@@ -25,7 +25,7 @@ I-LMS means Intelligent Learning Management System. This Project is an attempt t
 - Built sample pages for content visualization, when Start Learning button is clicked
 - Included pagination and a content box
 - Tried to fetch JSON data onto the sample pages
-
+![Image](C:\Users\Santosh\Pictures\Saved Pictures\project-LO)
 
 ```markdown
 Syntax highlighted code block
