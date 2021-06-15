@@ -31,6 +31,9 @@ I-LMS means Intelligent Learning Management System. This Project is an attempt t
 
 ## Sprint-4 (24th May - 29th May)
 ### Technologies used
+- HTML, CSS, JavaScript, ReactJs
+
+### Description
 - Able to fetch data from JSON file successfully
 - Included various multimedia types like videos, images and text
 - Multimedia is working across various pages
