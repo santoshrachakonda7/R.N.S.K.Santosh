@@ -38,6 +38,24 @@ I-LMS means Intelligent Learning Management System. This Project is an attempt t
 - Included various multimedia types like videos, images and text
 - Multimedia is working across various pages
 
+## Sprint-5 (31th May - 5th June)
+### Technologies used
+- HTML, CSS, JavaScript, ReactJs
+
+### Description
+- Included hypertext also in the multimedia
+- YouTube video's playing options were added
+
+## Sprint-6 (7th June - 12th June)
+### Technologies used
+- HTML, CSS, JavaScript, ReactJs
+
+### Description
+- Edited the JSON file, in which I have put same id for a concepts in a same module
+- Able to show the pagination for the particular module
+- Worked on UI improvements
+
+
 
 ```markdown
 Syntax highlighted code block
